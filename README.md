@@ -10,7 +10,7 @@
  2. Add to registry key<br>
  HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Session Manager<br>
  to BootExecute value this string:<br>
- autohepe \<block size in bytes\> \<path to hard disk in format ''\\Device\\PhysicalDriveX''\><br>
+ autohepe \<block size in bytes\> \<path to hard disk in format '\\Device\\PhysicalDriveX'\><br>
  3. Reboot machine<br>
  WARNING: You can destroy all data on your computer! Use extremely carefully!
  
